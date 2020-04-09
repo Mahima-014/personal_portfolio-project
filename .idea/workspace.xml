@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac7fd15-218a-497a-af32-fc47d3eb0ba8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/static/portfolio/Mahimakothari.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/static/portfolio/RESUME_new.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/templates/portfolio/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/templates/portfolio/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/home.html" afterDir="false" />
     </list>
@@ -28,13 +30,13 @@
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\personal_portfolio-project\portfolio\static\portfolio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Desktop\personal_portfolio-project\portfolio\static\portfolio" />
       <recent name="C:\Users\HP\Desktop\personal_portfolio-project\blog\templates\blog" />
       <recent name="C:\Users\HP\Desktop\personal_portfolio-project\portfolio\static" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\HP\Desktop\personal_portfolio-project\portfolio\static\portfolio" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -59,10 +61,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1585491210294" />
-    <state x="375" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1585926579603">
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1586413954384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585926579603" />
+    <state x="375" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586413954384" />
     <state x="261" y="0" key="scopes" timestamp="1585763697647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
